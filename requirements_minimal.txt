@@ -1,0 +1,25 @@
+# Core AI Agent Frameworks
+semantic-kernel>=1.29.0
+autogen-agentchat
+autogen-core~=0.4.5
+
+# LLM Providers
+openai
+mistralai~=0.4.2
+
+# Azure AI Services
+azure-ai-inference~=1.0.0b9
+azure-ai-projects==1.0.0b11
+azure-search-documents>=11.5.2
+azure-identity
+
+# Jupyter & Development
+jupyter
+ipykernel~=6.29.5
+notebook
+
+# Utilities
+python-dotenv~=1.0.1
+pillow==11.0.0
+pydantic>=2.10.0
+requests 
